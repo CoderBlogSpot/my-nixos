@@ -1,0 +1,8 @@
+#!/usr/bin/bash
+
+nitrogen --restore &
+dunst &
+xcompmgr &
+/usr/libexec/polkit-gnome-authentication-agent-1 &
+slstatus &
+exec ~/.config/dwm/dwm
