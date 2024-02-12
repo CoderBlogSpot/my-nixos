@@ -96,7 +96,6 @@
     pkgs.pavucontrol
     pkgs.google-chrome
     pkgs.rofi
-    pkgs.gnome.cheese
     pkgs.vlc
     pkgs.python3Full
     python.pkgs.pip
